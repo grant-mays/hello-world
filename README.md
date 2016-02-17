@@ -1,2 +1,2 @@
 # hello-world
-first github repository exmple
+first github repository example
